@@ -1,5 +1,4 @@
 import { Route, Switch } from 'react-router-dom';
-import Nav from './components/Nav';
 import Home from './components/Home';
 import Gallery from './components/Gallery';
 import Contact from './components/Contact';
