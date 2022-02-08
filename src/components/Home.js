@@ -71,7 +71,7 @@ export default class Home extends Component {
          
          <div className='pt-4 px-4 pb-6 sm:px-0 sm:pl-4 sm:pb-0 sm:pt-0 sm:text-right'>
             <h1 className='mt-4 sm:mt-0 sm:mr-4 text-3xl sm:text-4xl text-gray-700'>Top-Notch Sewing</h1>
-            <p className='mt-2 sm:mt-2 sm:mr-6 text-[14px] font-light text-gray-400'>Need a corporate dress? Or is it a family event? First date? Of course, it has a be a special dress for any of those occasions but sometimes.. it's just hard to get that seamstress that would make it how you see it. Well, you have us!</p>
+            <p className='mt-2 sm:mt-2 sm:mr-6 text-[14px] font-light text-gray-400'>Need a corporate dress? Or is it a family event? First date? Of course, it has to be a special dress for any of those occasions but sometimes.. it's just hard to get that seamstress that would make it how you see it. Well, you have us!</p>
         </div>
        <img src={img3} alt='Img2' className='w-full sm:w-3/6 h-full object-cover sm:rounded-r-xl' />
         </div>

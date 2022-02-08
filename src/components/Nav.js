@@ -12,7 +12,7 @@ export default class nav extends Component {
         
             <a href='/' className='text-sm text-purple-500 hover:text-purple-700'>Home</a>
             <a href='/gallery' className='text-sm text-purple-500 hover:text-purple-700'>Gallery</a>
-            <a href='/contact' className='text-sm text-purple-500 hover:text-purple-700'>Contact</a>
+            <a href='/contact' className='text-sm text-purple-500 hover:text-purple-700'>Contact Us</a>
         
         </div>
     </div>
