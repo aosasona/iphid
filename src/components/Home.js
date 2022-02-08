@@ -85,7 +85,7 @@ export default class Home extends Component {
         </div>
 
 
-        <div className='bg-white sm:p-0 sm:pl-0 sm:flex drop-shadow-lg sm:items-center sm:rounded-xl mt-3 mb-12' data-aos='flip-down' data-aos-duration="1500">
+        <div className='bg-white sm:p-0 sm:pl-0 sm:flex drop-shadow-lg sm:items-center sm:rounded-xl mt-3 mb-14' data-aos='flip-down' data-aos-duration="1500">
 
         <img src={img4} alt='Img4' className='w-full sm:w-3/6 h-full object-cover sm:rounded-l-xl' />
         <div className='px-4 pb-6 sm:px-0 sm:pr-4  sm:pb-0'>
