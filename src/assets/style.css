@@ -593,6 +593,18 @@ Ensure the default browser behavior of the `hidden` attribute.
   height: 95vh;
 }
 
+.h-\[92vh\]{
+  height: 92vh;
+}
+
+.h-\[93vh\]{
+  height: 93vh;
+}
+
+.h-\[94vh\]{
+  height: 94vh;
+}
+
 .max-h-10{
   max-height: 2.5rem;
 }

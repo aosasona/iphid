@@ -53,7 +53,7 @@ export default class Home extends Component {
     <div>
     <Nav />
     <div onLoad={this.typingFunc}>
-        <div className='h-[95vh] flex justify-center items-center' id='welcomeDiv' onMouseEnter={this.mouseEnter} onMouseLeave={this.mouseLeave}>
+        <div className='h-[94vh] flex justify-center items-center' id='welcomeDiv' onMouseEnter={this.mouseEnter} onMouseLeave={this.mouseLeave}>
             <h1 className='absolute z-0 text-center m-auto text-purple-300 text-4xl lg:text-8xl opacity-100' id='welcomeText'><span id='helloText'>Hello</span> <span id='blink'></span></h1>
         <img src={img1} className='w-full h-full object-cover opacity-30' id='welcomeImage' alt='img'/>
         </div>
