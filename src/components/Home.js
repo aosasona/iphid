@@ -41,10 +41,10 @@ export default class Home extends Component {
         }, 2000)
         setTimeout(() => {
             helloText.innerText = 'To'
-        }, 4500)
+        }, 3000)
         setTimeout(() => {
             helloText.innerText = 'Iphid Clothings'
-        }, 6500)
+        }, 4000)
     
     }
     
