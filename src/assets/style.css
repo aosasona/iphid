@@ -674,6 +674,10 @@ Ensure the default browser behavior of the `hidden` attribute.
   gap: 1.5rem;
 }
 
+.gap-5{
+  gap: 1.25rem;
+}
+
 .overflow-x-hidden{
   overflow-x: hidden;
 }
@@ -804,6 +808,11 @@ Ensure the default browser behavior of the `hidden` attribute.
 .px-0{
   padding-left: 0px;
   padding-right: 0px;
+}
+
+.px-8{
+  padding-left: 2rem;
+  padding-right: 2rem;
 }
 
 .pb-6{
@@ -1121,6 +1130,11 @@ Ensure the default browser behavior of the `hidden` attribute.
   .sm\:px-12{
     padding-left: 3rem;
     padding-right: 3rem;
+  }
+
+  .sm\:px-20{
+    padding-left: 5rem;
+    padding-right: 5rem;
   }
 
   .sm\:pl-0{

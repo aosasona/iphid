@@ -12,11 +12,11 @@ import img12 from '../assets/img/12.JPG'
 export default class Gallery extends Component {
   render() {
     return (
-    <div className='bg-zinc-900'>
+    <div>
         <Nav />
-        <h1 className='text-purple-300 p-6 text-4xl sm:text-5xl'>Gallery</h1>
-        <div className='px-20 my-10'>
-        <div className='grid grid-cols-2 gap-6 sm:gap-4 sm:grid-cols-3 xl:grid-cols-4'>
+        <h1 className='text-purple-300 p-6 text-3xl sm:text-5xl'>Gallery</h1>
+        <div className='px-5 sm:px-20 my-10'>
+        <div className='grid grid-cols-2 gap-5 sm:gap-4 sm:grid-cols-3 xl:grid-cols-4'>
         
         <img src={img6} className='rounded-2xl w-full'/>
         <img src={img12} className='rounded-2xl w-full'/>
