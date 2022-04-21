@@ -16,8 +16,9 @@ export default function Home() {
   useEffect(() => {
     const options = {
       strings: ["Welcome", "To", "Iphid Clothings"],
-      typeSpeed: 50,
-      backSpeed: 50,
+      typeSpeed: 100,
+      backSpeed: 75,
+      backDelay: 1250,
       loop: true,
       loopCount: Infinity,
     };
